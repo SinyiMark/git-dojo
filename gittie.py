@@ -5,3 +5,5 @@ def introduce():
 def add(a, b):
     return a + b
 
+def joke():
+    print('its a joke')
