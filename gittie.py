@@ -12,3 +12,4 @@ def joke():
 
 def shout():
     print('tökmindegy')
+    print('dsad')
